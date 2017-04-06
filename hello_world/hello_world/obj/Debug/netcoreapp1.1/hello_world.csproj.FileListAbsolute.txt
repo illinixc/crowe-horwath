@@ -1,0 +1,11 @@
+/Users/akurtz/wd/crowe-horwath/hello_world/hello_world/bin/Debug/netcoreapp1.1/hello_world.deps.json
+/Users/akurtz/wd/crowe-horwath/hello_world/hello_world/bin/Debug/netcoreapp1.1/hello_world.runtimeconfig.json
+/Users/akurtz/wd/crowe-horwath/hello_world/hello_world/bin/Debug/netcoreapp1.1/hello_world.runtimeconfig.dev.json
+/Users/akurtz/wd/crowe-horwath/hello_world/hello_world/bin/Debug/netcoreapp1.1/hello_world.dll
+/Users/akurtz/wd/crowe-horwath/hello_world/hello_world/bin/Debug/netcoreapp1.1/hello_world.pdb
+/Users/akurtz/wd/crowe-horwath/hello_world/hello_world/obj/Debug/netcoreapp1.1/hello_world.csprojResolveAssemblyReference.cache
+/Users/akurtz/wd/crowe-horwath/hello_world/hello_world/obj/Debug/netcoreapp1.1/hello_world.AssemblyInfo.cs
+/Users/akurtz/wd/crowe-horwath/hello_world/hello_world/obj/Debug/netcoreapp1.1/hello_world.dll
+/Users/akurtz/wd/crowe-horwath/hello_world/hello_world/obj/Debug/netcoreapp1.1/hello_world.pdb
+/Users/akurtz/wd/crowe-horwath/hello_world/hello_world/bin/Debug/netcoreapp1.1/MessageWriter.dll
+/Users/akurtz/wd/crowe-horwath/hello_world/hello_world/bin/Debug/netcoreapp1.1/MessageWriter.pdb
