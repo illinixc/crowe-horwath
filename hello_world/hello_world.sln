@@ -5,7 +5,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hello_world", "hello_world\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageWriter", "MessageWriter\MessageWriter.csproj", "{8BC0BED2-8F5F-47FE-8E30-F797974218C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageWriterTest", "MessageWriterTest\MessageWriterTest.csproj", "{316B286E-DB05-45C6-8BA1-1159A4559E40}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldTest", "MessageWriterTest\HelloWorldTest.csproj", "{316B286E-DB05-45C6-8BA1-1159A4559E40}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -6,10 +6,10 @@ using hello_world;
 
 namespace MessageWriterTest
 {
-    public class UnitTest1
+    public class AppTest
     {
         [Fact]
-        public void Writer_Should_Write_Hello_World()
+        public void Start_Should_Write_Hello_World()
         {
 			var message = "Hello World";
 			var mockWriter = new Mock<IMessageWriter>();
