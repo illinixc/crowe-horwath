@@ -42,7 +42,6 @@ namespace hello_world
 			
 			var section = configuration.GetSection("ConfigurationSettings");
 			var writer = section["Writer"];
-			Console.WriteLine(writer);
 			var type = Type.GetType(writer);
 			services.AddTransient(typeof(IMessageWriter), type);
 			services.AddTransient<App>();
