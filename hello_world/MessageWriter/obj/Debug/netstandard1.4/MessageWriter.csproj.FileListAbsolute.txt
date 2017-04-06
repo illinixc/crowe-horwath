@@ -1,7 +1,0 @@
-/Users/akurtz/wd/crowe-horwath/hello_world/MessageWriter/bin/Debug/netstandard1.4/MessageWriter.deps.json
-/Users/akurtz/wd/crowe-horwath/hello_world/MessageWriter/bin/Debug/netstandard1.4/MessageWriter.dll
-/Users/akurtz/wd/crowe-horwath/hello_world/MessageWriter/bin/Debug/netstandard1.4/MessageWriter.pdb
-/Users/akurtz/wd/crowe-horwath/hello_world/MessageWriter/obj/Debug/netstandard1.4/MessageWriter.csprojResolveAssemblyReference.cache
-/Users/akurtz/wd/crowe-horwath/hello_world/MessageWriter/obj/Debug/netstandard1.4/MessageWriter.AssemblyInfo.cs
-/Users/akurtz/wd/crowe-horwath/hello_world/MessageWriter/obj/Debug/netstandard1.4/MessageWriter.dll
-/Users/akurtz/wd/crowe-horwath/hello_world/MessageWriter/obj/Debug/netstandard1.4/MessageWriter.pdb
